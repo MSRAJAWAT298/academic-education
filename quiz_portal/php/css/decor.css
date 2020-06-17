@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	padding:0px;
+	-webkit-user-select:none;
+	}
+#id1{
+	background:#f3f5f6;
+	padding:10px 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:25px;
+	font-weight:bold;
+	color:#000;
+	text-align:center;
+	border-bottom:1px solid #afb1b2;
+	}
+	
+#id2{
+	background:#f3f5f6;
+	padding:10px 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#1b7fb7;
+	text-align:center;
+	border-bottom:1px solid #c9cccd;
+	margin-bottom:10px;
+	}
+	
+#id3{
+	background:;
+	padding:10px 0px;
+	border-bottom:0px solid #c9cccd;
+	text-align:center;
+	}
+	
+.cls1{
+	width:400px;
+	padding:7px 0px;
+	background:#cbeafc;
+	display:block;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#2832fd;
+	margin:auto;
+	border:1px solid #FFF;
+	box-shadow:0px 0px 1px 1px #a4dbfb;
+	}
+	
+.cls1:hover{
+	background:#a4dbfb;
+	color:#f64117;
+	transition:background 1s;
+	}	
+	
+.cls1:focus{
+	color:#000;
+	}	
+
+#id4{
+	width:100%;
+	background:#f3f5f6;
+	padding:8px 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#000;
+	text-align:center;
+	border-top:1px solid #c9cccd;
+	position:fixed;
+	bottom:0px;
+	}
+	
+.cls2{
+	padding:0px 10px;
+	}
+	
